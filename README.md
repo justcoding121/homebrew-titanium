@@ -1,4 +1,4 @@
-# homebrew-titanium
+﻿# homebrew-titanium
 
 Homebrew tap for the [Titanium Web Proxy](https://github.com/justcoding121/titanium-web-proxy) CLI.
 
